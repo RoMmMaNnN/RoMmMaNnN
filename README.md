@@ -35,7 +35,7 @@ Passionate about **Java, Spring, Python, NodeJS**, and exploring modern tech sta
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RoMmMaNnN-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RoMmMaNnN-blue?logo=linkedin)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/roman-kriuchkov-259972367/))  
 [![Telegram](https://img.shields.io/badge/Telegram-RoMmMaNnN-blue?logo=telegram)](https://t.me/your-telegram)  
 [![Instagram](https://img.shields.io/badge/Instagram-RoMmMaNnN-purple?logo=instagram)](https://www.instagram.com/your-instagram/)  
 [![GitHub](https://img.shields.io/badge/GitHub-RoMmMaNnN-black?logo=github)](https://github.com/RoMmMaNnN)
